@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import frexpf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-frexpf@deno/mod.js';
+import frexpf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-frexpf@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-frexpf@deno/mod.js';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-frexpf@v0.1.0-deno/mod.js';
 ```
 
 #### frexpf( x )
@@ -157,7 +157,7 @@ import roundf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roun
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@deno/mod.js';
 import f32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-float32@deno/mod.js';
 import BIAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-exponent-bias@deno/mod.js';
-import frexpf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-frexpf@deno/mod.js';
+import frexpf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-frexpf@v0.1.0-deno/mod.js';
 
 var sign;
 var frac;
