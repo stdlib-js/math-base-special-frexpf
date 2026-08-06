@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`cfbd29a`](https://github.com/stdlib-js/stdlib/commit/cfbd29afc8207dd44b5722ec49f0438ec08aea79) - **chore:** clean-up [(#13976)](https://github.com/stdlib-js/stdlib/pull/13976) _(by Philipp Burckhardt)_
 -   [`37facc3`](https://github.com/stdlib-js/stdlib/commit/37facc314354eb317977bab2bca09842120d1d63) - **fix:** replace `pow` with `powf` in `math/base/special/frexpf` [(#13948)](https://github.com/stdlib-js/stdlib/pull/13948) _(by Arjan-P)_
 -   [`b71a63d`](https://github.com/stdlib-js/stdlib/commit/b71a63d212d3943412faa229884d0ee56ee429da) - **style:** remove stray spaces [(#13248)](https://github.com/stdlib-js/stdlib/pull/13248) _(by Philipp Burckhardt)_
 -   [`59c9969`](https://github.com/stdlib-js/stdlib/commit/59c9969a580e74428505ba91634607f110ec71bf) - **bench:** refactor to use string interpolation in `math/base/special` [(#11388)](https://github.com/stdlib-js/stdlib/pull/11388) _(by Karan Anand)_
