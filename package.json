@@ -65,7 +65,7 @@
     "@stdlib/constants-float32-pinf": "^0.2.3",
     "@stdlib/math-base-assert-is-negative-zerof": "^0.1.4",
     "@stdlib/math-base-special-absf": "^0.2.3",
-    "@stdlib/math-base-special-pow": "^0.3.1",
+    "@stdlib/math-base-special-powf": "^0.1.1",
     "@stdlib/math-base-special-roundf": "^0.1.1",
     "@stdlib/random-array-uniform": "^0.2.2",
     "@stdlib/random-base-randu": "^0.2.3",
